@@ -1,0 +1,9 @@
+$dark-blue: rgb(11, 21, 56);
+html,body{
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  background-color: $dark-blue;
+  display: block;
+}
